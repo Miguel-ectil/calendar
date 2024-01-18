@@ -37,6 +37,7 @@ body {
   color: #fff; 
   font-weight: normal; 
   border-radius: 0.5rem;
+  cursor: pointer;
 }
 
 .calendar-header {
